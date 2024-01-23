@@ -1,0 +1,244 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Rubik, sans-serif;
+  font-weight: 200;
+}
+.Top {
+  display: flex;
+  justify-content: space-between;
+}
+div ul {
+  list-style: none;
+  text-transform: uppercase;
+}
+div ul li {
+  display: inline;
+  margin: 10px;
+}
+div ul li a {
+  text-decoration: none;
+  color: black;
+}
+.banner {
+  background-image: url("/image/header.jpg");
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+.start {
+  padding: 78px 90px;
+}
+.start-some {
+  font-size: 80px;
+  font-family: sans-serif;
+  color: white;
+  font-weight: 100;
+}
+.banpp {
+  color: white;
+  font-size: x-large;
+}
+.but {
+  background-color: rgba(236, 231, 231, 0.714);
+  width: 290px;
+  padding: 10px;
+  height: 80px;
+}
+.learnmore {
+}
+.second {
+  color: black;
+}
+.card {
+  display: flex;
+}
+.dui {
+  margin: 100px 100px 50px;
+  text-align: center;
+}
+.about {
+  font-weight: 100;
+}
+.firstflex {
+  font-weight: 100;
+}
+.computer {
+  text-align: center;
+}
+.weknow {
+  background-color: rgba(203, 203, 203, 0.93);
+  padding: 170px 177px 197px 48px;
+  display: flex;
+  justify-content: space-between;
+}
+.view {
+  color: white;
+  font-size: xx-large;
+  background: black;
+  border-radius: 10px;
+}
+.we {
+  font-size: x-large;
+  max-width: 71%;
+}
+.wek {
+  margin-top: 21px;
+}
+.design {
+  font-weight: 100;
+  font-size: xxx-large;
+  margin-bottom: 20px;
+}
+.selfie {
+  border-radius: 13px;
+  height: 281px;
+  margin-right: -58px;
+  margin-top: 59px;
+  max-width: 100%;
+}
+.card-two {
+}
+.tm {
+  text-align: center;
+}
+.jhon {
+
+max-width: 100%;
+}
+.team {
+  font-weight: 200;
+}
+.ones {
+}
+.number {
+  background-color: rgb(97, 97, 97);
+}
+.under-number {
+  display: flex;
+  justify-content: space-around;
+}
+.sup {
+  color: white;
+  font-weight: 200;
+}
+.pics {
+}
+.grid {
+  text-align: center;
+}
+.our-work {
+  font-weight: 200;
+}
+
+.grid-er{
+    
+padding: 8px;
+    
+max-width: 100%;
+    
+height: 830px;
+}
+.our-skill {
+}
+.pic-ss {height: 491px;max-width: 100%;}
+.Pricing {
+  background-color: rgb(97, 97, 97);
+  padding: 80px;
+}
+.price {
+  text-align: center;
+}
+.pri {
+  font-weight: 300;
+  color: white;
+}
+.chose {
+  color: white;
+}
+.boxone {
+  background-color: #F1F1F1;
+  height: 300px;
+  width: 240px;
+  border: 1px solid black;
+  text-align: center;
+  height: 350px;
+  width: 562px;
+}
+
+.basic {background-color: black;color: #F1F1F1;margin: 0;padding: 15px;}
+
+.sign {
+
+}
+.stor {line-height: 29px;}
+
+.boxt {
+  background-color: #F1F1F1;
+  height: 300px;
+  width: 240px;
+  border: 1px solid black;
+  text-align: center;
+  height: 350px;
+  width: 562px;
+}
+.boxw {
+  background-color: #F1F1F1;
+  height: 300px;
+  width: 240px;
+  border: 1px solid black;
+  text-align: center;
+  height: 350px;
+  width: 562px;
+}
+.hov {
+  display: flex;
+  gap: 35px;
+  height: px;
+  padding-left: 26px;
+}
+
+.Contact{
+    background-color: #F1F1F1;
+    margin: 10px;
+    padding: 10px;
+}
+
+.contact-div{
+    text-align: center;
+}
+.con{
+    font-weight: 300;
+}
+
+.location{}
+
+.phn{
+    padding: 27px 0;
+}
+
+.nam{padding: 40px 0px 15px;}
+.subj{padding: 15px 0px 0px;}
+.mes{padding: 15px 0px 0px;}
+
+.Message-but{}
+
+.Send{
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 37px;
+    padding: 6px;
+    color: white;
+    background-color: black;
+}
+.last-pic{height: 1392px;max-width: 100%;}
+.last{
+  padding: 70px;
+  background-color: black;
+}
+.to{
+  text-align: center;
+  font-weight: 300;
+  color: white ;
+}
